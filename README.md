@@ -61,22 +61,6 @@ Bermo is a web application for booking sports facilities that allows users to re
   
 ---
 
-### 🌦 Weather Forecast Dashboard
-A data-driven weather analytics dashboard.
-
-- Interactive visualizations  
-- Historical data analysis  
-- Insight-focused reporting  
-
----
-
-### 🎨 UI/UX Projects
-- Web & mobile interface design  
-- Interactive Figma prototypes  
-- User-centered design approach  
-
----
-
 ## 💼 Experience
 
 **Freelance UI/UX Designer** — 2 Years  
@@ -103,12 +87,7 @@ A data-driven weather analytics dashboard.
 
 ## 📫 Connect With Me
 
-- GitHub: [https://github.com/your-username](https://github.com/mostafamehrian)
+- GitHub: [https://github.com/mostafamehrian](https://github.com/mostafamehrian)
 - LinkedIn: (Add your link)
 - Portfolio: (Add your link)
 
----
-
-## ⚡ Personal Mission
-
-I love turning data into meaningful dashboards and transforming ideas into working products 🚀
