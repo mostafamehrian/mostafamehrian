@@ -10,6 +10,7 @@ I’m a Python developer with a strong interest in **Data Science** and **Data E
 
 I’m passionate about **visualizing data and extracting meaningful insights from it**.  
 I enjoy turning raw data into structured information and transforming ideas into practical, data-driven solutions.
+I enjoy building real-world applications, working with databases, and designing clean user interfaces.
 
 Alongside development, I have experience in:
 
@@ -26,9 +27,8 @@ Alongside development, I have experience in:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![TinyDB](https://img.shields.io/badge/TinyDB-000000?style=for-the-badge)
+
+
 
 ---
 
@@ -37,7 +37,7 @@ Alongside development, I have experience in:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+
 
 ---
 
@@ -53,13 +53,12 @@ Alongside development, I have experience in:
 
 ## 📌 Featured Projects
 
-### 📒 Accounting Web Application
-A lightweight accounting system built with Python.
+### 🏟 Bermo — Sports Venue Reservation System
 
-- CRUD operations  
-- Database management  
-- Clean dashboard interface  
+A web-based sports venue reservation platform built with Python.
 
+Bermo is a web application for booking sports facilities that allows users to reserve sports venues online.
+  
 ---
 
 ### 🌦 Weather Forecast Dashboard
@@ -94,21 +93,17 @@ A data-driven weather analytics dashboard.
 ## 📚 Currently Learning
 
 - Data Engineering Concepts  
-- Machine Learning Fundamentals  
+- Machine Learning Fundamentals
+- Data Science & Machine Learning
 - Advanced SQL  
 - System Design  
 
 ---
 
-## 📊 GitHub Stats
-
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
+- GitHub: [https://github.com/your-username](https://github.com/mostafamehrian)
 - LinkedIn: (Add your link)
 - Portfolio: (Add your link)
 
@@ -116,4 +111,4 @@ A data-driven weather analytics dashboard.
 
 ## ⚡ Personal Mission
 
-Turning data into insight, and insight into impact.
+I love turning data into meaningful dashboards and transforming ideas into working products 🚀
